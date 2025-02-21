@@ -54,7 +54,8 @@ img {
 .container {
   width: 1158px;
   margin: 0 auto;
-  padding: 0 15px;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
 .link {
@@ -196,10 +197,12 @@ img {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  text-align: center;
 }
 
 .features-item-text {
   font-size: 16px;
+  text-align: center;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
